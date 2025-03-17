@@ -40,5 +40,11 @@
     "symbol": "CHDPU",
     "decimals": 18,
     "logo": "./0xaad94Afea296DCF8c97D05dbf3733A245c3Ea78F/logo.png"
+  },
+  "0x3171c42620Bd04e1c2bDE6c1B042198CA7aB14d4": {
+    "name": "OneBot",
+    "symbol": "ONB",
+    "decimals": 18,
+    "logo": "./0x3171c42620Bd04e1c2bDE6c1B042198CA7aB14d4/logo.png"
   }
 }
