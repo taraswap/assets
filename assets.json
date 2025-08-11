@@ -100,5 +100,11 @@
     "symbol": "GRUMPY",
     "decimals": 18,
     "logo": "./0xacB8b71500B616c20fE18c48fc965D0981538D54/logo.png"
+  },  
+  "0x96B86CCe868FcC6681d8AB2c8E53C93E9750bA3A": {
+    "name": "PuzzleKey",
+    "symbol": "PKEY",
+    "decimals": 18,
+    "logo": "./0x96B86CCe868FcC6681d8AB2c8E53C93E9750bA3A/logo.png"
   }
 }
